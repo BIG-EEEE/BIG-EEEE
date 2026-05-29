@@ -80,20 +80,35 @@ Bridging Climate Science, Data Analytics & Digital Development
 
 <br>
 
+
 <p align="center">
-  <img title="Python" height="30" src="Python.svg">
-  <img title="Jupyter" height="30" src="Jupyter.svg">
-  <img title="Pandas" height="30" src="Pandas.svg">
-  <img title="NumPy" height="30" src="NumPy.svg">
-  <img title="Matplotlib" height="30" src="matplotlib.svg">
-  <img title="Scikit-learn" height="30" src="scikit-learn.svg">
-  <img title="Latex" height="30" src="latex.svg">
-  <img title="WordPress" height="30" src="wordpress.svg">
-  <img title="Elementor" height="30" src="elementor.svg">
-  <img title="HTML5" height="30" src="html5.svg">
-  <img title="CSS3" height="30" src="css3.svg">
-  <img title="JavaScript" height="30" src="javascript.svg">
-  <img title="Problem Solving" height="30" src="problemSolving.png">
+  <img title="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+  <img title="Jupyter" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
+
+  <img title="Pandas" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+
+  <img title="NumPy" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+
+  <img title="Matplotlib" height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
+
+  <img title="Scikit Learn" height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
+
+  <img title="LaTeX" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
+
+  <img title="WordPress" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
+
+  <img title="HTML5" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+
+  <img title="CSS3" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+
+  <img title="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+
+  <img title="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+
+  <img title="GitHub" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+
+  <img title="VS Code" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </p>
 
 <hr>
