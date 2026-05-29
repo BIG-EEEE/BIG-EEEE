@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+😊;I+am+Emmanuel+Agyemang+Oti!...&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+😊;I+am+Emmanuel+Oti!...&center=true&size=30">
   </a>
 </h1>
 
@@ -138,7 +138,8 @@ Bridging Climate Science, Data Analytics & Digital Development
 
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BIG-EEEE&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BIG-EEEE&custom_title=Emmanuel%20Oti's%20Contribution%20Graph&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" width="100%"/>
+
 </p>
 
 <h3 align="center"> 
@@ -148,4 +149,3 @@ Bridging Climate Science, Data Analytics & Digital Development
 <div align="center"> 
 <img align="center" src = "https://profile-counter.glitch.me/BIG-EEEE/count.svg" alt ="Loading">
 </div>
-```
